@@ -1,6 +1,6 @@
-function vidajuego(A,it,largo,alto)
+function life(A,it,largo,alto)
 %
-% vidajuego(A,it,largo,alto)
+% life(A,it,largo,alto)
 %
 % Game of Life.
 %
